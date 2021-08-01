@@ -13,33 +13,33 @@ O minicurso será ministrado ao longo de três encontros onde falaremos dos segu
         * Definição do que é uma função;
         * Funções primeiro e segundo grau;
         * Domínio, Imagem e continuidade;
-        * Tipos de funções (Polinomial, Fracionária, Exponencial e etc).  
+        * Tipos de funções.  
     * Limites
-        * Conceito de velocidade média e instantânea
-        * Noção intuitiva de limites
-        * Propriedades dos limites
-        * Limite de uma função contínua
-        * Limites bilaterais e unilaterais
-        * Limites no infinito
+        * Conceito de velocidade média e instantânea;
+        * Noção intuitiva de limites;
+        * Propriedades dos limites;
+        * Limite por substituição;
+        * Limites bilaterais e unilaterais;
+        * Limites no infinito.
 
 1. Derivadas
-    * Conceito de derivada
-    * Regras de derivação
-        * Função constante
-        * Função Potência
-        * Função soma
-        * Função diferença
-        * Função produto
-        * Função logarítmica
-        * Função exponencial
-        * Regra da cadeia
+    * Conceito de derivada;
+    * Regras de derivação;
+        * Função constante;
+        * Função Potência;
+        * Função soma;
+        * Função diferença;
+        * Função produto;
+        * Função logarítmica;
+        * Função exponencial;
+        * Regra da cadeia.
 1. Integral
-    * Conceito de integral
-    * Integral definida e indefinida
-    * Integral de uma função
-    * Propriedade da integração
-    * Regras de integração
-    * Integral por partes
+    * Conceito de integral;
+    * Integral definida e indefinida;
+    * Integral de uma função;
+    * Propriedade da integração;
+    * Regras de integração;
+    * Integral por partes.
 
 ## Recomendações de materiais de estudo
 
@@ -48,6 +48,8 @@ O minicurso será ministrado ao longo de três encontros onde falaremos dos segu
 * <https://en.wikipedia.org/wiki/Main_Page>
 
 * Fundamental university physics Volume 1: Mechanics - Alonso & Finn
+
+* <https://courses.lumenlearning.com/precalctwo/chapter/finding-limits-properties-of-limits/>
 
 ### Mensagem de Freedxm
 
