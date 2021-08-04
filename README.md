@@ -51,6 +51,8 @@ O minicurso será ministrado ao longo de três encontros onde falaremos dos segu
 
 * <https://courses.lumenlearning.com/precalctwo/chapter/finding-limits-properties-of-limits/>
 
+* <https://www.mathsisfun.com/calculus/>
+
 ### Mensagem de Freedxm
 
 Se após a leitura das apostilas restarem dúvidas, perguntas e sugestões significa que o meu trabalho ainda não está pronto, então fique a vontade para relatar, comentar e contribuir da melhor forma que achar possível.
