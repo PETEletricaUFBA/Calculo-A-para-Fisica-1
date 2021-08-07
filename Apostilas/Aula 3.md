@@ -28,18 +28,19 @@ $f(x)=F'(x) = \frac{\mathrm{d} F(x)}{\mathrm{d} x}$
 
 e
 
-$\int _{a}^{b}f(x)\,dx=F(b)-F(a)$
+$\int _{a}^{b}f(x)\,dx=F(b)-F(a)$  
+
 
 ## Propriedades da integração
 
 |Propriedade| descrição|
 |-----|----|
-| Somas | $ \int _{a}^{b}f(x) + g(x)\,dx = \int_{a}^{b}f(x)\,dx + \int _{a}^{b}g(x)\,dx$ |
-| Subtração | $ \int _{a}^{b}f(x) - g(x)\,dx = \int_{a}^{b}f(x)\,dx - \int _{a}^{b}g(x)\,dx$ |
-| Multiplicação por uma constante | $ \int _{a}^{b} k * f(x)\,dx = k \int_{a}^{b}f(x)\,dx$ |
-| Inverso do intervalo | $ \int _{a}^{b} f(x)\,dx = -\int_{b}^{a}f(x)\,dx$ |
-| Intervalo de tamanho 0 | $ \int _{a}^{a} f(x)\,dx = 0$ |
-| Soma de intervalos  | $ \int_{a}^{c}f(x)\,dx + \int_{c}^{b}f(x)\,dx = \int_{a}^{b}f(x)\,dx$ |
+| Somas | $\int _{a}^{b}f(x) + g(x)\,dx = \int_{a}^{b}f(x)\,dx + \int _{a}^{b}g(x)\,dx$ |
+| Subtração | $\int _{a}^{b}f(x) - g(x)\,dx = \int_{a}^{b}f(x)\,dx - \int _{a}^{b}g(x)\,dx$ |
+| Multiplicação por uma constante | $\int _{a}^{b} k * f(x)\,dx = k \int_{a}^{b}f(x)\,dx$ |
+| Inverso do intervalo | $\int _{a}^{b} f(x)\,dx = -\int_{b}^{a}f(x)\,dx$ |
+| Intervalo de tamanho 0 | $\int _{a}^{a} f(x)\,dx = 0$ |
+| Soma de intervalos  | $\int_{a}^{c}f(x)\,dx + \int_{c}^{b}f(x)\,dx = \int_{a}^{b}f(x)\,dx$ |
 
 ## Regras de integração
 
@@ -52,7 +53,7 @@ $\int _{a}^{b}f(x)\,dx=F(b)-F(a)$
 |Exponencial|$\int _{}^{}e^{x}dx$|$e^{x} + c$|
 ||$\int _{}^{}a^{x}dx$|$\frac{a^{x}}{ln(a)} + c$|
 ||$\int _{}^{}ln(x)dx$|$xln(x) - x + c$|
-|Trigonometry|$\int _{}^{}cos(x)dx$|$sin(x) + c$|
+|Trigonometria|$\int _{}^{}cos(x)dx$|$sin(x) + c$|
 ||$\int _{}^{}sin(x)dx$|$-cos(x) + c$|
 ||$\int _{}^{}sec^{2}(x)dx$|$tan(x) + c$|
 
