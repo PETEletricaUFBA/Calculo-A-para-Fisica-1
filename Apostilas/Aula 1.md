@@ -107,23 +107,23 @@ $a$, $k$, $A$ e $B$ Representam numeros reais tais que $ \lim_{x\to a}f(x)=A$ e 
 
 |Propriedade| descrição|
 |-----|----|
-| Constante | $ \lim_{x\to a}k=k$ |
-| Multiplicação por constante| $ \lim_{x\to a}k*f(x)=k\lim_{x\to a}f(x)=kA$|
-|Soma de funções|$ \lim_{x\to a}[f(x) + g(x)]= \lim_{x\to a}f(x) + \lim_{x\to a}g(x) = A + B$|
-|Subtração de funções|$ \lim_{x\to a}[f(x) - g(x)]= \lim_{x\to a}f(x) - \lim_{x\to a}g(x) = A - B$|
-|Multiplicação de funções|$ \lim_{x\to a}[f(x)*g(x)]= \lim_{x\to a}f(x) *\lim_{x\to a}g(x) = A* B$|
-|Divisão de funções|$ \lim_{x\to a}\frac {f(x)}{g(x)}= \frac{\lim_{x\to a}f(x)}{\lim_{x\to a}g(x)} =\frac {A}{B}, B \neq 0$|
-| Função elevada a potencia| $ \lim_{x\to a}[f(x)]^n=[\lim_{x\to a}f(x)]^n=A^n$ quando n é um numero inteiro positivo|
-| Raiz n da função| $ \lim_{x\to a}\sqrt[n]{[f(x)]}=\sqrt[n]{\lim_{x\to a}f(x)}=\sqrt[n]{A}$ quando n é um numero inteiro positivo|
-| Função Polinomial | $ \lim_{x\to a}p(x)=p(a)$ |
+| Constante | $\lim_{x\to a}k=k$ |
+| Multiplicação por constante| $\lim_{x\to a}k*f(x)=k\lim_{x\to a}f(x)=kA$|
+|Soma de funções|$\lim_{x\to a}[f(x) + g(x)]= \lim_{x\to a}f(x) + \lim_{x\to a}g(x) = A + B$|
+|Subtração de funções|$\lim_{x\to a}[f(x) - g(x)]= \lim_{x\to a}f(x) - \lim_{x\to a}g(x) = A - B$|
+|Multiplicação de funções|$\lim_{x\to a}[f(x)*g(x)]= \lim_{x\to a}f(x) *\lim_{x\to a}g(x) = A* B$|
+|Divisão de funções|$\lim_{x\to a}\frac {f(x)}{g(x)}= \frac{\lim_{x\to a}f(x)}{\lim_{x\to a}g(x)} =\frac {A}{B}, B \neq 0$|
+| Função elevada a potencia| $\lim_{x\to a}[f(x)]^n=[\lim_{x\to a}f(x)]^n=A^n$ quando n é um numero inteiro positivo|
+| Raiz n da função| $\lim_{x\to a}\sqrt[n]{[f(x)]}=\sqrt[n]{\lim_{x\to a}f(x)}=\sqrt[n]{A}$ quando n é um numero inteiro positivo|
+| Função Polinomial | $\lim_{x\to a}p(x)=p(a)$ |
 
 ### Limite por substituição
 
-Uma das formas de solucionar o limite é através da substituição direta $ \lim_{x\to a}p(x)=p(a)$, que consiste em substituir o valor da variavel de entrada, $x$, pelo valor desejado, $a$, encontrando assim o valor do limite, esse metodo é valido para maioria das funções e todas funções continuas, visto que uma função é continua quando o limite de $f(x)$ quando $x$ se aproxima de $a$ no dominio de $f$ existe e é igual a $f(a)$.
+Uma das formas de solucionar o limite é através da substituição direta $\lim_{x\to a}p(x)=p(a)$, que consiste em substituir o valor da variavel de entrada, $x$, pelo valor desejado, $a$, encontrando assim o valor do limite, esse metodo é valido para maioria das funções e todas funções continuas, visto que uma função é continua quando o limite de $f(x)$ quando $x$ se aproxima de $a$ no dominio de $f$ existe e é igual a $f(a)$.
 
 Nos permitindo encontrar o limite de funções continuas através apenas da substituição direta de $x$ por $a$.
 
-Quando a função não é continua é importante determinar se o limite existe, pois a substituição direta nos leva a três possiveis resultados: $ \lim_{x\to a}p(x)=\frac{b}{0}$ onde o limite não existe e é provavelmente uma assintota, $\lim_{x\to a}p(x)=k$ onde o limite existe e é definido, e o valor é $k$ e $ \lim_{x\to a}p(x)= \frac{0}{0} $ nesse caso é preciso tratar a função, através de fatoração, conjugação, identidades trigonometriacas e outro, de modo a obter uma função de curva similar e realizar novamente o processo de substituição. Imagem abaixo ilustra o processo de solução de limites através de substituição.
+Quando a função não é continua é importante determinar se o limite existe, pois a substituição direta nos leva a três possiveis resultados: $\lim_{x\to a}p(x)=\frac{b}{0}$ onde o limite não existe e é provavelmente uma assintota, $\lim_{x\to a}p(x)=k$ onde o limite existe e é definido, e o valor é $k$ e $\lim_{x\to a}p(x)= \frac{0}{0}$ nesse caso é preciso tratar a função, através de fatoração, conjugação, identidades trigonometriacas e outro, de modo a obter uma função de curva similar e realizar novamente o processo de substituição. Imagem abaixo ilustra o processo de solução de limites através de substituição.
 
 <img src="../img/limSub.png"
      alt="Limit algorithm."
