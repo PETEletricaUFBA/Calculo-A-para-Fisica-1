@@ -8,7 +8,7 @@
 
 O minicurso será ministrado ao longo de três encontros onde falaremos dos seguintes assuntos:
 
-1. Funções e Limite
+1. [Funções e Limite](https://hackmd.io/@XDRmpn5cQHGNOpUWog8Mcw/Sk30nkb1t) [![hackmd-github-sync-badge](https://hackmd.io/nJ-GCXOORNi4c-jUH4EhGA/badge)](https://hackmd.io/nJ-GCXOORNi4c-jUH4EhGA)
     * Visão geral sobre funções
         * Definição do que é uma função;
         * Funções primeiro e segundo grau;
