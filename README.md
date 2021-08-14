@@ -22,7 +22,7 @@ O minicurso será ministrado ao longo de três encontros onde falaremos dos segu
         * Limites bilaterais e unilaterais;
         * Limites no infinito.
 
-1. Derivadas
+1. [Derivadas](https://hackmd.io/@XDRmpn5cQHGNOpUWog8Mcw/BJxXntPrlK) [![hackmd-github-sync-badge](https://hackmd.io/nJ-GCXOORNi4c-jUH4EhGA/badge)](https://hackmd.io/nJ-GCXOORNi4c-jUH4EhGA)
     * Conceito de derivada;
     * Regras de derivação;
         * Função constante;
@@ -33,7 +33,7 @@ O minicurso será ministrado ao longo de três encontros onde falaremos dos segu
         * Função logarítmica;
         * Função exponencial;
         * Regra da cadeia.
-1. Integral
+1. [Integral](https://hackmd.io/@XDRmpn5cQHGNOpUWog8Mcw/S1r80Kw1K) [![hackmd-github-sync-badge](https://hackmd.io/nJ-GCXOORNi4c-jUH4EhGA/badge)](https://hackmd.io/nJ-GCXOORNi4c-jUH4EhGA)
     * Conceito de integral;
     * Integral definida e indefinida;
     * Integral de uma função;
